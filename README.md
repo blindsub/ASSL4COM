@@ -1,2 +1,2 @@
-# ASSL4COM
-Collaborative Active and Semisupervised Learning for Compare-based Performance Modeling of Software Systems
+# CM-CASL
+A Comparison-based Model for Configuration Tuning of Software Systems via Collaborative Active and Semisupervised Learning
